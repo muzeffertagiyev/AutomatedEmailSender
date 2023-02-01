@@ -24,7 +24,7 @@ The project is divided to :
         
         (https://www.npoint.io/docs/de5c3533349a7f588f4d)-it is our api.We have created data from this webpage.You can see data in below.And it is also possible to just entering this link and see the data
         {
-            "sender_email":{"email":"python.email270@gmail.com","password":"rnihqtzturzznjju"},
+            "sender_email":{"email":"my_email_as_sender","password":"my_sender_email_password"},
             "emails":{"t.muzeffer.1998@gmail.com":{"name":"muzeffer"},"negarchabi@gmail.com":{"name":"negar"},"nour.eimesh96@gmail.com":{"name":"noor"}},
             "subject":"[DATE] Oil Sales",
             "content":"Dear [NAME],\nI trust you are well.  Here is the report of sales for [DATE]\nSales\nThe following sales were generated in the day:\nCanola Oil – 200\nOlive Oil – 60\nReturns\nThere were no returns in [DATE]."}
