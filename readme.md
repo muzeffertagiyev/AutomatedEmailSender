@@ -1,7 +1,7 @@
 # Automated Email Sender
 
 ## About the project
-It is used for a company to send automated emails to its clients in a specific time on each day.(if you want to run this code everytime you should use some tools for running it online like pythonanywhere,Azure server and e.t.c ). 
+It is used for a company to send automated emails to its clients(to how many emails you want you can add) in a specific time on each day.(if you want to run this code everytime you should use some tools for running it online like pythonanywhere,Azure server and e.t.c ). 
 
 # Introduction Video of the App
 
